@@ -1,0 +1,30 @@
+**7-day Linux mini-plan**
+
+**Week 3 (Linux Basics)**.
+
+This will cover **commands, file system, users, permissions, and basic security** — enough to give you strong Linux foundations for cybersecurity.
+
+---
+
+# 🐧 Week 3 – Linux Basics (7-Day Plan, \~6 hrs/day)
+
+| Day       | Focus                         | Practice Tasks                                                                                                                                                            | Resources                                                                                                                                    |
+| --------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Day 1** | Intro to Linux + File System  | - Learn Linux folder structure (`/etc`, `/var`, `/home`, `/tmp`) <br>- Navigate with `cd`, `ls`, `pwd`                                                                    | [Linux Journey – Intro](https://linuxjourney.com/lesson/the-shell), [FreeCodeCamp Linux Basics](https://www.youtube.com/watch?v=iwolPf6kN-k) |
+| **Day 2** | File & Directory Management   | - Create/remove files & folders (`touch`, `mkdir`, `rm`, `rmdir`) <br>- Copy/move with `cp`, `mv` <br>- View with `cat`, `less`, `head`, `tail`                           | [Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook/)                                                     |
+| **Day 3** | Users & Groups                | - Create user: `useradd`, `passwd` <br>- Switch users: `su`, `sudo` <br>- Groups: `groupadd`, `usermod -aG`                                                               | [TryHackMe Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)                                                     |
+| **Day 4** | Permissions                   | - Check permissions: `ls -l` <br>- Change with `chmod`, `chown`, `chgrp` <br>- Practice `777`, `644`, `755`                                                               | [Linux Permissions Guide](https://www.redhat.com/sysadmin/linux-file-permissions-explained)                                                  |
+| **Day 5** | Processes & System Monitoring | - Manage processes: `ps`, `top`, `kill`, `htop` <br>- Check disk & memory: `df -h`, `du -sh`, `free -m`                                                                   | [TryHackMe Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)                                                     |
+| **Day 6** | Networking in Linux           | - Get IP: `ip a`, `ifconfig` <br>- Check connections: `netstat -tulnp`, `ss -tuln` <br>- Test network: `ping`, `traceroute`, `curl`, `wget`                               | [Linux Networking Commands](https://www.geeksforgeeks.org/basic-networking-commands-in-linux/)                                               |
+| **Day 7** | Review + Mini Project         | - Create a new user & group <br>- Give them file/folder permissions <br>- Write a text log file and compress it (`tar`, `gzip`) <br>- Document everything in a notes file | [TryHackMe Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)                                                     |
+
+---
+
+✅ **End of Week 3 Deliverable**:
+
+* A **Linux basics cheat sheet** (your notes).
+* Screenshots of your commands & mini-project → add to GitHub/Notion portfolio.
+
+---
+
+
