@@ -1,0 +1,108 @@
+Hello, Since i have want to enter into it jobs i have planned complete Cybersecurity Online  
+also as i was not knowing about git i have completed 2 weeks of course and now started to document my learning process as i have come across this topic while
+doing some research on week 3 topics. please use this file for your own growth or advice me if i am going wrong somewhere.
+
+I have made following plan which should be enough to enter into the industry. 
+
+🛡️ Accelerated 6-Month Cybersecurity Roadmap (6 Hours/Day)
+
+## **Month 1: Foundations (Weeks 1–4)**
+
+**Goal:** Networking, Linux, Windows basics
+
+| Week | Focus                                           | Hours/Day | Resources                                                                                                                                                       | Status      |
+| ---- | ----------------------------------------------- | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| 1    | Networking Basics (TCP/IP, DNS, Firewalls, VPN) | 6         | [Cisco Networking Basics](https://www.netacad.com/courses/networking/networking-basics), [FreeCodeCamp Networking](https://www.youtube.com/watch?v=qiQR5rTSshw) | ✅ Completed |
+| 2    | Networking Labs + Subnets + Protocols           | 6         | [Cisco PT](https://www.netacad.com/courses/packet-tracer)                                                                                                       | ✅ Completed |
+| 3    | Linux Basics: Commands, File System, Users      | 6         | [Linux Journey](https://linuxjourney.com), [TryHackMe Linux Fundamentals](https://tryhackme.com/path/outline/linux-fundamentals)                                | ⏳ Pending   |
+| 4    | Windows Basics & Security Concepts              | 6         | [Microsoft Learn Windows](https://learn.microsoft.com/en-us/training/browse/?terms=windows%20server)                                                            | ⏳ Pending   |
+
+**Deliverable:** Cisco Networking certificate ✅ + Linux/Windows lab notes
+
+---
+
+## **Month 2: Core Cybersecurity + Security+ (Weeks 5–8)**
+
+**Goal:** Entry-level cert & labs
+
+| Week | Focus                                            | Hours/Day | Resources                                                                                               | Status    |
+| ---- | ------------------------------------------------ | --------- | ------------------------------------------------------------------------------------------------------- | --------- |
+| 5    | Security+ Theory: Threats, Malware, Cryptography | 6         | [Professor Messer SY0-701](https://www.professormesser.com/security-plus/sy0-701/sy0-701-course-index/) | ⏳ Pending |
+| 6    | Security+ Labs: VirtualBox, Wireshark, Nmap      | 6         | TryHackMe [Pre Security Path](https://tryhackme.com/path/outline/presecurity)                           | ⏳ Pending |
+| 7    | Security+ Exam Prep                              | 6         | [CompTIA Security+ Objectives](https://www.comptia.org/certifications/security)                         | ⏳ Pending |
+| 8    | Security+ Exam & Portfolio Setup                 | 6         | CompTIA Security+ (\~\$370)                                                                             | ⏳ Pending |
+
+**Deliverable:** Security+ certificate + basic lab portfolio
+
+---
+
+## **Month 3: Ethical Hacking Basics (Weeks 9–12)**
+
+**Goal:** Pentesting foundation + CEH prep
+
+| Week | Focus                                                  | Hours/Day | Resources                                                                                                          | Status    |
+| ---- | ------------------------------------------------------ | --------- | ------------------------------------------------------------------------------------------------------------------ | --------- |
+| 9    | Ethical Hacking Intro & Tools (Kali, Metasploit, Burp) | 6         | [TryHackMe Beginner Path](https://tryhackme.com/path/outline/beginner), [Burp Suite](https://portswigger.net/burp) | ⏳ Pending |
+| 10   | Labs: Vulnerability Scanning, OSINT                    | 6         | THM rooms: “Vulnerability Scanning”, “OSINT”                                                                       | ⏳ Pending |
+| 11   | CEH Prep: Web App Testing, Password Cracking           | 6         | [Ethical Hacking Full Course](https://www.youtube.com/watch?v=fNzpcB7ODxQ)                                         | ⏳ Pending |
+| 12   | CEH Lab Practice + Sample Report                       | 6         | Document labs → GitHub/Notion                                                                                      | ⏳ Pending |
+
+**Deliverable:** Beginner pentesting portfolio + GitHub link
+
+---
+
+## **Month 4: Specialization (Weeks 13–16)**
+
+**Goal:** Choose **Red Team / Blue Team / Cloud Security**
+
+| Week | Focus                    | Hours/Day | Resources                                                                                                                                                                                                                      | Status    |
+| ---- | ------------------------ | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- |
+| 13   | Specialization Theory    | 6         | Red: [THM Pentesting Path](https://tryhackme.com/path/outline/pentesting) / Blue: [SOC L1 Path](https://tryhackme.com/path/outline/soc-level-1) / Cloud: [AWS Security](https://aws.amazon.com/training/learn-about/security/) | ⏳ Pending |
+| 14   | Labs / Hands-on Practice | 6         | Same as chosen path                                                                                                                                                                                                            | ⏳ Pending |
+| 15   | Small Project #1         | 6         | Document project on GitHub                                                                                                                                                                                                     | ⏳ Pending |
+| 16   | Small Project #2         | 6         | Document project on GitHub                                                                                                                                                                                                     | ⏳ Pending |
+
+**Deliverable:** Two specialization projects
+
+---
+
+## **Month 5: Advanced Hands-On + Certification (Weeks 17–20)**
+
+**Goal:** Portfolio-ready + 1 advanced cert
+
+| Week | Focus                      | Resources                                   | Status    |
+| ---- | -------------------------- | ------------------------------------------- | --------- |
+| 17   | Offensive / Blue Team Labs | TryHackMe Advanced Rooms                    | ⏳ Pending |
+| 18   | Pentest / SOC Reporting    | GitHub Portfolio                            | ⏳ Pending |
+| 19   | Certification Study        | eJPT (\$200) / CySA+ (\$392) / AWS Security | ⏳ Pending |
+| 20   | Exam + Final Lab Portfolio | Submit & update GitHub                      | ⏳ Pending |
+
+**Deliverable:** eJPT / CySA+ / AWS Security certificate
+
+---
+
+## **Month 6: Job Prep (Weeks 21–24)**
+
+**Goal:** Resume, LinkedIn, job applications
+
+| Week | Focus                                | Hours/Day | Resources                                                                              | Status    |
+| ---- | ------------------------------------ | --------- | -------------------------------------------------------------------------------------- | --------- |
+| 21   | Resume + LinkedIn + GitHub Portfolio | 6         | [Cybersecurity Resume Tips](https://novoresume.com/career-blog/cyber-security-resume)  | ⏳ Pending |
+| 22   | Soft Skills + Interview Prep         | 6         | YouTube mock interviews, practice Q\&A                                                 | ⏳ Pending |
+| 23   | Apply to jobs + practice interviews  | 6         | [LinkedIn Jobs](https://www.linkedin.com/jobs/), [StepStone](https://www.stepstone.de) | ⏳ Pending |
+| 24   | Final Review + Mock Interviews       | 6         | With friends / online                                                                  | ⏳ Pending |
+
+**Deliverable:** Job-ready profile + active applications
+
+---
+
+# ✅ Summary 
+
+* **Completed:** Cisco Networking Basics (Week 1)
+* **Completed:**  Week 2 → Networking Labs & Subnetting (Packet Tracer)
+* **Certifications Planned:** Security+ → eJPT/CySA+/AWS Security
+* **Portfolio:** GitHub with labs + reports
+* **Job Roles after 6 months:** SOC Analyst, Junior Pentester, Security Engineer
+
+---
+
